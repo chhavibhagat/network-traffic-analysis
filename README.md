@@ -21,5 +21,18 @@ This project analyzes real network traffic captured using Wireshark and visualiz
 3. Place your traffic.pcap file in the project folder
 4. Run analyze.py
 
-## Results
+
+## Project Files
+- analyze.py - Main analysis script
+- visualize.py - Additional visualizations
+- requirements.txt - Required libraries
+- summary_report.txt - Analysis results report
+- protocols_chart.png - Protocol distribution chart
+- ip_chart.png - Top source IPs chart
+- size_chart.png - Packet size distribution chart
+
+## Team Members
+- Chhavi Bhagat (Technical Implementation)
+- [Partner Name] (Presentation)
+ ## Results
 The analysis showed that QUIC and TCP were the most common protocols in the captured traffic.
