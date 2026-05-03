@@ -1,0 +1,23 @@
+Network Traffic Analysis Report
+================================
+Total Packets Captured: 36,510
+Capture Duration: ~2 minutes
+Interface: Wi-Fi
+
+Top Protocols:
+- QUIC: ~13,000 packets
+- TCP: ~9,500 packets
+- TLS: ~8,500 packets
+- NTP: ~300 packets
+- DNS: ~800 packets
+
+Top Source IPs:
+- 192.168.29.229 (Local device)
+- 13.225.103.29
+- 13.224.163.127
+- 98.70.192.224
+- 192.168.29.1
+
+Conclusion:
+QUIC and TCP dominate the traffic showing heavy
+encrypted web browsing and streaming activity.
