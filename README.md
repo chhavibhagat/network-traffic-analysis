@@ -32,7 +32,7 @@ This project analyzes real network traffic captured using Wireshark and visualiz
 - size_chart.png - Packet size distribution chart
 
 ## Team Members
-- Chhavi Bhagat (Technical Implementation)
-- [Partner Name] (Presentation)
+- Chhavi Bhagat 
+- Janvi Sharma
  ## Results
 The analysis showed that QUIC and TCP were the most common protocols in the captured traffic.
